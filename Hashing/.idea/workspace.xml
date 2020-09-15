@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee8c77ef-b192-4ab1-ad08-10ea2e3ee082" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gJzo1igfjLUpWuTSJHeH0F8XFM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Java/Prática09" />
+  </component>
+  <component name="RunManager" selected="Application.TestEncadeamento">
+    <configuration name="Encadeamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.maua.encadeamento.Encadeamento" />
+      <module name="Hashing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.maua.encadeamento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hash_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.maua.colisao.Hash_01" />
+      <module name="Hashing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.maua.colisao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="br.maua.Main" />
+      <module name="Hashing" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEncadeamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.maua.encadeamento.TestEncadeamento" />
+      <module name="Hashing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.maua.encadeamento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRehashing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.maua.rehashing.TestRehashing" />
+      <module name="Hashing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.maua.rehashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Encadeamento" />
+      <item itemvalue="Application.Hash_01" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TestEncadeamento" />
+      <item itemvalue="Application.TestRehashing" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestEncadeamento" />
+        <item itemvalue="Application.TestRehashing" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Encadeamento" />
+        <item itemvalue="Application.Hash_01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee8c77ef-b192-4ab1-ad08-10ea2e3ee082" name="Default Changelist" comment="" />
+      <created>1597847655002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597847655002</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2131" y="-675" key="#com.intellij.ide.util.MemberChooser" timestamp="1600134310642">
+      <screen x="1366" y="-879" width="1920" height="1040" />
+    </state>
+    <state x="2131" y="-675" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.-879.1920.1040@1366.-879.1920.1040" timestamp="1600134310642" />
+    <state x="1719" y="-879" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599526304571">
+      <screen x="1366" y="-879" width="1920" height="1040" />
+    </state>
+    <state x="1719" y="-879" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/1366.-879.1920.1040@1366.-879.1920.1040" timestamp="1599526304571" />
+    <state x="2106" y="-604" key="FileChooserDialogImpl" timestamp="1600102155615">
+      <screen x="1366" y="-879" width="1920" height="1040" />
+    </state>
+    <state x="526" y="193" key="FileChooserDialogImpl/0.0.1366.728/1366.-879.1920.1040@0.0.1366.728" timestamp="1599081175797" />
+    <state x="2106" y="-604" key="FileChooserDialogImpl/0.0.1366.728/1366.-879.1920.1040@1366.-879.1920.1040" timestamp="1600102155615" />
+    <state width="1877" height="432" key="GridCell.Tab.0.bottom" timestamp="1600136552780">
+      <screen x="1366" y="-879" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="432" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-879.1920.1040@1366.-879.1920.1040" timestamp="1600136552780" />
+    <state width="1877" height="432" key="GridCell.Tab.0.center" timestamp="1600136552780">
+      <screen x="1366" y="-879" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="432" key="GridCell.Tab.0.center/0.0.1366.728/1366.-879.1920.1040@1366.-879.1920.1040" timestamp="1600136552780" />
+    <state width="1877" height="432" key="GridCell.Tab.0.left" timestamp="1600136552780">
+      <screen x="1366" y="-879" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="432" key="GridCell.Tab.0.left/0.0.1366.728/1366.-879.1920.1040@1366.-879.1920.1040" timestamp="1600136552780" />
+    <state width="1877" height="432" key="GridCell.Tab.0.right" timestamp="1600136552780">
+      <screen x="1366" y="-879" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="432" key="GridCell.Tab.0.right/0.0.1366.728/1366.-879.1920.1040@1366.-879.1920.1040" timestamp="1600136552780" />
+    <state x="2022" y="-535" key="com.intellij.ide.util.TipDialog" timestamp="1600186415607">
+      <screen x="1366" y="-879" width="1920" height="1040" />
+    </state>
+    <state x="2022" y="-535" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-879.1920.1040@1366.-879.1920.1040" timestamp="1600186415607" />
+    <state x="1989" y="-654" width="672" height="678" key="search.everywhere.popup" timestamp="1600120721251">
+      <screen x="1366" y="-879" width="1920" height="1040" />
+    </state>
+    <state x="1989" y="-654" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.-879.1920.1040@1366.-879.1920.1040" timestamp="1600120721251" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/br/maua/encadeamento/TestEncadeamento.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
